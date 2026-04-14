@@ -14,7 +14,7 @@
   - Convert all timestamps from UTC to South African time (SAST) to ensure accurate temporal analysis.
   - Incorporate any additional relevant data or metrics to strengthen insights and recommendations.
 
--Summary of Results
+- Summary of Results
   - Peak viewership occurs during evening hours and weekends, indicating strong leisure-time engagement.
   - Consumption is driven by content type (e.g., popular genres like drama/sports), ease of access (device usage), and user demographics.
   - Low engagement periods (e.g., weekday mornings) present opportunities for targeted content such as short-form or news-based programming.
